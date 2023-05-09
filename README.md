@@ -17,10 +17,10 @@ evaluation metrics.
 
 ## Deep Learning - DSAI K65: Group 16
 1. Nguyễn Tống Minh (Email: minh.nt204885@sis.hust.edu.vn)
-2. Hoàng Trần Nhật Minh (Email: minh.ht204883@sis.hust.edu.vn)
-3. Hồ Minh Khôi (Email: khoi.hm204917@sis.hust.edu.vn)
-4. Nguyễn Hoàng Phúc (Email: phuc.nh204923@sis.hust.edu.vn)
-5. Trương Quang Bình (Email: binh.tq200068@sis.hust.edu.vn)
+2. Trương Quang Bình (Email: binh.tq200068@sis.hust.edu.vn)
+3. Hoàng Trần Nhật Minh (Email: minh.ht204883@sis.hust.edu.vn)
+4. Hồ Minh Khôi (Email: khoi.hm204917@sis.hust.edu.vn)
+5. Nguyễn Hoàng Phúc (Email: phuc.nh204923@sis.hust.edu.vn)
 
 ## Project Structure
 
